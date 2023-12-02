@@ -1,0 +1,4 @@
+backups/*.sql
+logs/db_logs/*.log
+config.php
+logs/
